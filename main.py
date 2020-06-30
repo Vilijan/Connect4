@@ -3,7 +3,6 @@ from experience_memory import ReplayMemory
 from constants import Hyperparameters
 from learner import Connect4Learner
 import torch
-import matplotlib.pyplot as plt
 from selfplay import play_episode
 
 env = ConnectX()
