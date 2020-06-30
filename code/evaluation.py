@@ -2,9 +2,9 @@ from models import QNetwork
 import torch
 from constants import Hyperparameters
 import numpy as np
-from utils import choose_action
+from utils import choose_action, mean_reward
 from kaggle_environments import evaluate
-from utils import mean_reward
+
 
 model_id = 2000
 agent = QNetwork(6, 7)

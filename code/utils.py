@@ -1,8 +1,6 @@
 import numpy as np
 import torch
 
-
-
 def preprocess(board, mark):
     return np.array([1 if val == mark else 0 if val == 0 else 2 for val in board])
 

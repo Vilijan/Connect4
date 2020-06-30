@@ -3,11 +3,9 @@ def agent_function(observation, configuration):
     import torch.nn as nn
     import torch.nn.functional as F
     import numpy as np
-    import random
     import math
     import base64
     import io
-    import time
 
     N = 7
     M = 6
