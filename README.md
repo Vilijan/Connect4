@@ -1,3 +1,7 @@
+# Graduation thesis
+
+This was my graduation thesis so you can find the whole documentation in Macedonian on this [link](https://drive.google.com/file/d/1pgxOHQqsEX3JS4CPMJV2LDDPp1--N8MA/view?usp=sharing)
+
 # Connect4 agent using Reinforcement Learning #
 
 In this repository I have created an intelligent agent using reinforcement learning that learned how to play the game Connect4. I have experimented with DQN, minimax-DQN and DDQN algorithms.
